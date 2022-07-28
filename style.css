@@ -17,6 +17,9 @@
     background-color: #289BDE;
     height: 350px;
 }
+.fa-star{
+    color: #F59E0B;
+}
 
 @media only screen and (max-width: 576px) {
     .banner-header{
