@@ -20,6 +20,9 @@
 .fa-star{
     color: #F59E0B;
 }
+.price{
+    color: #289BDE;
+}
 
 @media only screen and (max-width: 576px) {
     .banner-header{
