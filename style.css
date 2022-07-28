@@ -24,14 +24,23 @@
     color: #289BDE;
 }
 
+
+/* --------------------------------
+            Media Queries 
+---------------------------------*/
+
 @media only screen and (max-width: 576px) {
+    .registration{
+        width: 90%;
+        margin: 0 auto;
+    }
     .banner-header{
-        font-size: larger;
+        font-size: 14px;
     }
     .banner-text{
-        font-size: small;
+        font-size: 10px;
     }
     .banner-btn{
-        font-size: smaller;
+        font-size: 8px;
     }
   }
